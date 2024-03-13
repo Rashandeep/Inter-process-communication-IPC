@@ -1,4 +1,4 @@
-# Inter-process-communication-IPC-
+# Inter-process-communication-IPC
 
 This project demonstrates interprocess communication, managed by the main file (driver program) named `a3ece650.cpp`, which oversees the overall control flow. Three programs run concurrently, each with specific tasks:
 
